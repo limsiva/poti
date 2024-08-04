@@ -1,5 +1,6 @@
 @import"https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&display=swap";
 @import"https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700&display=swap";
+@import url('https://fonts.googleapis.com/css2?family=Hammersmith+One&display=swap');
 
 body {
     margin: 0;
@@ -84,6 +85,7 @@ h1 {
     z-index: 5;
     padding: 21px 275px 25px;
     top: 0;
+    position: absolute;
 }
 
 .menu-desktop a {
@@ -97,9 +99,9 @@ h1 {
 }
 
 .memorial-style {
-    width: 960px;
+    width: 1244px;
     margin: 0 auto;
-    padding: 24px 0;
+    padding: 81px 0;
 }
 
 .indice a {
@@ -123,23 +125,16 @@ a {
 }
 
 .memorial-style h4 {
-    text-align: center;
+    text-align: left;
     margin-bottom: 30px;
-}
-
-.memorial-style  h4 {
-    font-family: Merriweather;
 }
 
 .memorial-style h4 {
     margin-top: 0;
     margin-bottom: 0.5rem;
-    font-weight: 500;
     line-height: 1.2;
-}
-
-.memorial-style h4 {
-    font-size: 1.5rem;
+    font-family: "Hammersmith One", sans-serif;
+    font-size: 26px;
 }
 
 .memorial-style p {
@@ -196,3 +191,12 @@ a {
 .font-11pt {
     font-size: 11pt;
 }
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+  }
+  .grid-item {
+    padding: 5px 20px;
+    text-align: center;
+  }
