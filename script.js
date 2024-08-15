@@ -1,5 +1,5 @@
 var encontros = [
-    {"title": "9. Tenda do conto - 09/04/2024", "uri": "https://limsiva.github.io/poti/encontros/dia_9.html"},
+    {"title": "6. Tenda do conto - 09/04/2024", "uri": "https://limsiva.github.io/poti/encontros/dia_6.html"},
 ]
 
 window.onload = function() {
