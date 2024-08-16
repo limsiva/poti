@@ -18,6 +18,7 @@ body {
     line-height: 32px;
     font-weight: 400;
     color: #212529;
+    margin-top: 65px;
 }
 
 .banner {
@@ -83,9 +84,9 @@ h1 {
     background-color: #fff;
     box-shadow: 0 1px 5px #adadad2e;
     z-index: 5;
-    padding: 21px 275px 25px;
+    padding: 21px 0 25px;
     top: 0;
-    position: absolute;
+    text-align: center;
 }
 
 .menu-desktop a {
@@ -99,7 +100,6 @@ h1 {
 }
 
 .memorial-style {
-    width: 1244px;
     margin: 0 auto;
     padding: 81px 0;
 }
