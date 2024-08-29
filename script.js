@@ -9,6 +9,9 @@ var encontros = [
     {"title": "8. Ferramentas para o cuidado familiar - 30/07/2024", "uri": "https://limsiva.github.io/poti/encontros/dia_8.html"},
     {"title": "9. Visitas Domiciliares - 06/08/2024", "uri": "https://limsiva.github.io/poti/encontros/dia_9.html"},
     {"title": "10. A Saúde do Trabalhador e Sua Rede - 13/08/2024", "uri": "https://limsiva.github.io/poti/encontros/dia_10.html"},
+    {"title": "11. Preparação da Intervenção - 20/08/2024", "uri": "https://limsiva.github.io/poti/encontros/dia_11.html"},
+    {"title": "12. A Saúde do Trabalhador e o Mural do Afeto - 27/08/2024", "uri": "https://limsiva.github.io/poti/encontros/dia_12.html"},
+    {"title": "Carta aberta à USF Pedra do Sino", "uri": "https://limsiva.github.io/poti/encontros/carta_aberta.html"},
 ]
 
 window.onload = function() {
